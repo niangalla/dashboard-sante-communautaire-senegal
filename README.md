@@ -4,7 +4,7 @@ Dispositif de **suivi-évaluation cadre logique** (cible vs réalisé) pour un p
 
 > Références EDS-Continue 2023 (ANSD) + données de programme simulées et anonymisées.
 
-**Auteur :** [Alla NIANG](https://github.com/niangalla) — Data | AI | BI Engineer
+**Auteur :** [Alla NIANG](https://github.com/niangalla) - Data | AI | BI Engineer
 
 ---
 
@@ -47,7 +47,7 @@ Filtres : **District sanitaire**, **Indicateur**, **Trimestre**.
 Deux tables, une relation plusieurs-à-un :
 
 ```
-Suivi_Indicateurs[District_Sanitaire]  *───1  Districts[District_Sanitaire]
+Suivi_Indicateurs[District_Sanitaire]  *1  Districts[District_Sanitaire]
 ```
 
 Pas de table calendrier : `Trimestre` (`2024-T1`, …) sert d'axe chronologique. Un ordre numérique (`Annee * 10 + numéro de trimestre`) garantit le tri correct.
