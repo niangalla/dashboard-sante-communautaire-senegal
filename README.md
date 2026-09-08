@@ -1,4 +1,4 @@
-# Dashboard Power BI — Suivi-évaluation santé communautaire (Sénégal)
+# Dashboard Power BI Suivi-évaluation santé communautaire (Sénégal)
 
 Dispositif de **suivi-évaluation cadre logique** (cible vs réalisé) pour un programme de santé communautaire. Le rapport compare la couverture sanitaire de 8 districts à des cibles nationales, pour repérer les écarts territoriaux et orienter les ressources.
 
@@ -22,7 +22,7 @@ Dispositif de **suivi-évaluation cadre logique** (cible vs réalisé) pour un p
 
 | Dimension | Valeur |
 |---|---|
-| Période | 2024 – 2025 (8 trimestres) |
+| Période | 2024 - 2025 (8 trimestres) |
 | Districts | Thiès, Mbour, Tivaouane, Kaolack, Fatick, Kolda, Vélingara, Ziguinchor |
 | Indicateurs | Vaccination complète (12–23 mois), CPN4, accouchements assistés, soins postnatals (2 jours) |
 | Taux de réalisation global | 76,48 % |
@@ -34,9 +34,9 @@ Dispositif de **suivi-évaluation cadre logique** (cible vs réalisé) pour un p
 
 ## Structure du rapport
 
-1. **Synthèse** — question de pilotage, périmètre, sources, taux de réalisation global
-2. **Indicateurs** — KPI, barres vs ligne de cible, évolution trimestrielle, tableau d'écarts par district
-3. **Priorités d'actions** — constats classés par urgence (Critique / À surveiller / En progrès / Proche de la cible)
+1. **Synthèse** - question de pilotage, périmètre, sources, taux de réalisation global
+2. **Indicateurs** - KPI, barres vs ligne de cible, évolution trimestrielle, tableau d'écarts par district
+3. **Priorités d'actions** - constats classés par urgence (Critique / À surveiller / En progrès / Proche de la cible)
 
 Filtres : **District sanitaire**, **Indicateur**, **Trimestre**.
 
