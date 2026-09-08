@@ -1,0 +1,10 @@
+# Power BI temporaires
+*.tmp
+*.pbit.lock
+~$*
+
+# Excel / Office
+~$*.xlsx
+Thumbs.db
+Desktop.ini
+.DS_Store
