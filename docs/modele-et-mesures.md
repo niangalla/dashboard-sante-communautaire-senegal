@@ -18,6 +18,6 @@ Voir le README racine. Formater `Taux de Réalisation`, `Cible Moyenne` et `Éca
 
 ## Mise en page (indicateurs)
 
-- Ligne 1 — cartes : taux de réalisation, population couverte, indicateurs sous la cible, pire écart
-- Ligne 2 — combiné barres (réalisé) + ligne (cible) par indicateur
-- Ligne 3 — courbe trimestrielle ; matrice district × écart à la cible
+- Ligne 1 cartes : taux de réalisation, population couverte, indicateurs sous la cible, pire écart
+- Ligne 2 combiné barres (réalisé) + ligne (cible) par indicateur
+- Ligne 3 courbe trimestrielle ; matrice district × écart à la cible
