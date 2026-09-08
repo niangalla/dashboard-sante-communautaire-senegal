@@ -1,4 +1,4 @@
-# Modèle, mesures et montage — Santé communautaire
+# Modèle, mesures et montage Santé communautaire
 
 ## Import
 
